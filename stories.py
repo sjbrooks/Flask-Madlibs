@@ -43,3 +43,6 @@ story = Story(
     """Once upon a time in a long-ago {place}, there lived a
        large {adjective} {noun}. It loved to {verb} {plural_noun}."""
 )
+
+# words = {"place": "barber shop", "noun": "banana", "verb": "throw", "adjective": "wise", "plural_noun": "ants"}
+# story.generate(words)
